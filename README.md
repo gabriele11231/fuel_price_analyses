@@ -3,3 +3,5 @@ This repository was developed as part of a University project on Complex Systems
 While Large Language Models (LLMs) were consulted to refine the documentation and conceptual explanations, the core logic and code were developed independently. I found that AI-generated code solutions often introduced unnecessary complexity that didn't align with the project's goals. 
 
 I acknowledge that the current codebase contains redundancies and could be further optimized following software engineering best practices; however, the focus of this work remains on the analytical framework and the empirical findings regarding market dynamics.
+
+To maintain a clean repository, raw pricing data, station metadata, and generated network files are not hosted here; however, they can be easily reconstructed using the provided scripts. Important Note: Generating the spatial distance between nodes is computationally intensive. Without hardware acceleration or further code optimization, calculating these distances can take several hours. Users are advised to plan accordingly or use the pre-processed distance samples where available.

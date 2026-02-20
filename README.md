@@ -5,3 +5,5 @@ While Large Language Models (LLMs) were consulted to refine the documentation an
 I acknowledge that the current codebase contains redundancies and could be further optimized following software engineering best practices; however, the focus of this work remains on the analytical framework and the empirical findings regarding market dynamics.
 
 To maintain a clean repository, raw pricing data, station metadata, and generated network files are not hosted here; however, they can be easily reconstructed using the provided scripts. Important Note: Generating the spatial distance between nodes is computationally intensive. Without hardware acceleration or further code optimization, calculating these distances can take several hours. Users are advised to plan accordingly or use the pre-processed distance samples where available.
+
+The technical report is written in Italian, as the project and the related research activities were developed within an academic course delivered in Italian at an Italian university.
